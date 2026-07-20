@@ -54,7 +54,21 @@ indiabix_scraper/
 ````
 
 ---
+## Screenshots
 
+### Generated Markdown Notes
+
+![Markdown Output](screenshots/markdown-output.png)
+
+### Project Structure
+
+![Project Structure](screenshots/project-structure.png)
+
+### Scraper Execution
+
+![Scraper Running](screenshots/scraper-running.png)
+
+---
 ## Installation
 
 Clone the repository:
