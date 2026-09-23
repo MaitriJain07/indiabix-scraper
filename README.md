@@ -74,7 +74,7 @@ indiabix_scraper/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/MaitriJain07/indiabix-scraper.git
 cd indiabix_scraper
 ````
 
